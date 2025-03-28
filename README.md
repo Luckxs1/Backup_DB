@@ -84,6 +84,8 @@ LoXor - yunquelucky@Gmail.com
 
 Project Link: https://github.com/Luckxs1/Backup_DB
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)]([paypal.me/LYunque](https://www.paypal.com/paypalme/LYunque))
+<a href="https://paypal.me/LYunque" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">
+</a>
 
 Paypal: paypal.me/LYunque 
