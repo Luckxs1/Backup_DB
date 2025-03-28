@@ -80,7 +80,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 ###  Contact
 
-Your Name - @YourTwitter - YourEmail@example.com
+LoXor - yunquelucky@Gmail.com
 
 Project Link: https://github.com/Luckxs1/Backup_DB
 
