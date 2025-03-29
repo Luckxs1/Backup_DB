@@ -118,9 +118,8 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 **LoXor** - yunquelucky@gmail.com
 
-    - **Project Repository:** Backup_DB on GitHub
-
-    - **Support Me:**
+- **Project Repository:** Backup_DB on GitHub
+- **Support Me:**
 <a href="https://paypal.me/LYunque" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">
 </a>
